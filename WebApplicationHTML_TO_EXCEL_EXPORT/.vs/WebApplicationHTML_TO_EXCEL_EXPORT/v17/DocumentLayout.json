@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|e:\\dot net core project\\.net_core_html_to_excel\\webapplicationhtml_to_excel_export\\webapplicationhtml_to_excel_export\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|solutionrelative:webapplicationhtml_to_excel_export\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|e:\\dot net core project\\.net_core_html_to_excel\\webapplicationhtml_to_excel_export\\webapplicationhtml_to_excel_export\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|solutionrelative:webapplicationhtml_to_excel_export\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|e:\\dot net core project\\.net_core_html_to_excel\\webapplicationhtml_to_excel_export\\webapplicationhtml_to_excel_export\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|solutionrelative:webapplicationhtml_to_excel_export\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|e:\\dot net core project\\.net_core_html_to_excel\\webapplicationhtml_to_excel_export\\webapplicationhtml_to_excel_export\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|solutionrelative:webapplicationhtml_to_excel_export\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|e:\\dot net core project\\.net_core_html_to_excel\\webapplicationhtml_to_excel_export\\webapplicationhtml_to_excel_export\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|solutionrelative:webapplicationhtml_to_excel_export\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|e:\\dot net core project\\.net_core_html_to_excel\\webapplicationhtml_to_excel_export\\webapplicationhtml_to_excel_export\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F9887CC-0841-4FFD-A8CA-41DC9A8FF3E4}|WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT.csproj|solutionrelative:webapplicationhtml_to_excel_export\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationHTML_TO_EXCEL_EXPORT\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationHTML_TO_EXCEL_EXPORT\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T08:28:57.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplicationHTML_TO_EXCEL_EXPORT\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationHTML_TO_EXCEL_EXPORT\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:55:14.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationHTML_TO_EXCEL_EXPORT\\Program.cs",
+              "ToolTip": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\Program.cs",
+              "RelativeToolTip": "WebApplicationHTML_TO_EXCEL_EXPORT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:47:53.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationHTML_TO_EXCEL_EXPORT\\appsettings.json",
+              "ToolTip": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\appsettings.json",
+              "RelativeToolTip": "WebApplicationHTML_TO_EXCEL_EXPORT\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T07:45:43.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationHTML_TO_EXCEL_EXPORT\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplicationHTML_TO_EXCEL_EXPORT\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:38:32.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "WebApplicationHTML_TO_EXCEL_EXPORT\\Entities\\Person.cs",
+              "ToolTip": "E:\\dot net core project\\.Net_core_HTML_TO_EXCEL\\WebApplicationHTML_TO_EXCEL_EXPORT\\WebApplicationHTML_TO_EXCEL_EXPORT\\Entities\\Person.cs",
+              "RelativeToolTip": "WebApplicationHTML_TO_EXCEL_EXPORT\\Entities\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:36:32.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

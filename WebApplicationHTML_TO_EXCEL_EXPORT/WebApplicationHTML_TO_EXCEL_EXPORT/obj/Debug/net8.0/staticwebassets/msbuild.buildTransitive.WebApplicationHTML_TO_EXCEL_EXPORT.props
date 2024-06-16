@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebApplicationHTML_TO_EXCEL_EXPORT.props" />
+</Project>
